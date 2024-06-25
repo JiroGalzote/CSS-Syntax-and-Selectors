@@ -1,0 +1,22 @@
+header{
+    background-color: lightblue;
+}
+h1{
+    color:green;
+}
+nav{
+    border-bottom: black, 2px;
+}
+
+nav ul li {
+    font-size: 18px;
+}
+
+footer{
+    text-align: center;
+}
+.box{
+    background-color: lightgray;
+    padding: 2px;
+
+}
